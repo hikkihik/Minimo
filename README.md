@@ -1,0 +1,3 @@
+# Minimo
+
+Web Template Blog
